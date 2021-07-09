@@ -1,0 +1,5 @@
+# 使用 Go 语言（# 号开头的为注释）
+language: go
+
+script:
+  - go test -v ./...
